@@ -1,6 +1,6 @@
 # SE_Day1_Assignment
 
-## Part 1: Introduction to Software Engineering
+## Part 1: Introduction to Software Engineering 
 
 ### 1. What is Software Engineering?
 Software engineering is a branch of computer science used for developing, testing, and maintaining software. Its importance in the technology industry includes:
